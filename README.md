@@ -8,10 +8,10 @@ Live Access:
 What 11v11 GPT Does:
 ---
 11v11 GPT provides A–Z football knowledge, including:
-Tactical systems and formations (4-3-3, 3-5-2, 4-2-3-1, etc.)
-Match analysis and playing styles
-Player roles (False 9, Inverted Fullback, Box-to-Box Midfielder)
-Football rules and laws of the game
+1.Tactical systems and formations (4-3-3, 3-5-2, 4-2-3-1, etc.)
+2.Match analysis and playing styles
+3.Player roles (False 9, Inverted Fullback, Box-to-Box Midfielder)
+4.Football rules and laws of the game
 Historical and conceptual football explanations
 Beginner-to-advanced level answers based on user queries
 
