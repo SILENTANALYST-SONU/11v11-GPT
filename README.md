@@ -112,6 +112,13 @@ This design reflects **industry-standard AI product architecture**.
 - Advanced football analytics dashboards  
 
 ---
+
+## 📄 License
+
+MIT License — free to use for learning, portfolio, and demonstration purposes.
+
+---
+
 ## About Me
 
 Hello, My name is **SONUKUMAR YADAV**, and I am a passionate **Data Analyst** with a strong focus on transforming raw data into meaningful insights that drive smarter business decisions.I believe that every dataset has a story, and my role as a data analyst is to decode that story and communicate it effectively to stakeholders.
@@ -125,10 +132,4 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/SILENTANALYST-SONU)
 [![Devpost](https://img.shields.io/badge/Devpost-Profile-blue?logo=devpost&logoColor=white)](https://devpost.com/sonuyaduvanshi5560?)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sonu.kumar.yadav1220/vizzes)
-
-## 📄 License
-
-MIT License — free to use for learning, portfolio, and demonstration purposes.
-
----
 
