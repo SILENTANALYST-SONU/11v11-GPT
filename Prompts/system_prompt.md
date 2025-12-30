@@ -1,4 +1,5 @@
-This file contains the final merged system prompt that defines the identity, behavior, scope, and security rules of 11v11 GPT.
+# This file defines the core identity, purpose, and behavior of 11v11 GPT.
+# It ensures the assistant works strictly as a football-only AI with professional response rules.
 
 It ensures:
 - Football-only operation
