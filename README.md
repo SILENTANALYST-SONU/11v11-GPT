@@ -1,10 +1,9 @@
 ## 11v11-GPT
 A domain-specific football AI assistant designed with strict scope control, language-aware UX, and locked system behavior. 11v11 GPT provides tactical analysis, formations, stats, and football insights with higher reliability than general-purpose chatbots.
---
-🔗 Live Access
-👉 Live GPT Link -https://chatgpt.com/g/g-6952dded50fc8191b4933fa14e85fcc9-11v11-gpt
 
+🔗 Live Access
 --
+👉 Live GPT Link -https://chatgpt.com/g/g-6952dded50fc8191b4933fa14e85fcc9-11v11-gpt
 
 
 Note: Access requires a ChatGPT account. Availability of public or link-based sharing depends on ChatGPT platform permissions.
