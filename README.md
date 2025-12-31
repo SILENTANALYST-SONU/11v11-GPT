@@ -9,7 +9,7 @@ A domain-specific football AI assistant designed with strict scope control, lang
 
 ---
 ## 🎬 Project Demo
-[Watch Demo](assets/demo.mp4)
+[Watch Demo](assets/https://github.com/SILENTANALYST-SONU/11v11-GPT/blob/main/Asset/11v11-GPT__The_AI_That_Only_Knows_Soccer.mp4)
 
 
 ---
