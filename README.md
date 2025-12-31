@@ -8,8 +8,8 @@ A domain-specific football AI assistant designed with strict scope control, lang
 👉 Live GPT Link -https://chatgpt.com/g/g-6952dded50fc8191b4933fa14e85fcc9-11v11-gpt
 
 ---
-## 🎬 Project Demo
-[Watch Demo](assets/https://github.com/SILENTANALYST-SONU/11v11-GPT/blob/main/Asset/11v11-GPT__The_AI_That_Only_Knows_Soccer.mp4)
+## 🎬 Project Explaination
+[Watch Video](Asset/11v11-GPT__The_AI_That_Only_Knows_Soccer.mp4)
 
 
 ---
